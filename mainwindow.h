@@ -42,7 +42,7 @@ private slots:
 private:
     Ui::MainWindow *ui;
     void EncodeFile();
-    qint64 key=  9223372036854775807;
+    qint64 key=  9223372036854775803;
     QString readAddr;
 
 };
